@@ -2,11 +2,10 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "Prisca Beuchat Feldenkraispraxis Bern"
 url = "/"
 
 [[link]]
 title = "Über mich"
 url = "/ueber/"
 +++
-
