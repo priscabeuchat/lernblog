@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/op-de-beek-raum-s.jpg"
 color = ""
 +++
-
